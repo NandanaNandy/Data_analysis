@@ -7,7 +7,7 @@ Data Visualization: Tools for creating visualizations like charts and graphs usi
 Statistical Analysis: Analysis of datasets using statistical techniques.
 Machine Learning: Implementations of machine learning models for predictive analysis.
 
-#Prerequisites
+# Prerequisites
 Ensure the following libraries are installed before using the scripts:
 numpy
 pandas
